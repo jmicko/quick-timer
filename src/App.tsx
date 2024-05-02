@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <div>
+      <div class='header'>
         <img src={clock} class="logo" alt="quick timer logo" />
         <h1>Quick Timer</h1>
       </div>

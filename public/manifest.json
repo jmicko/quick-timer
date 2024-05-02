@@ -1,0 +1,46 @@
+{
+  "name": "Quick Timer",
+  "version": "1.0.0",
+  "description": "Quickly start a frequently used timer",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/clock-icon-196x196.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/clock-icon-196x196.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/clock-icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/clock-icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot1.png",
+      "type": "image/png",
+      "sizes": "393x645"
+    },
+    {
+      "src": "/screenshot2.png",
+      "type": "image/png",
+      "sizes": "1561x741",
+      "form_factor": "wide"
+    }
+  ]
+}
